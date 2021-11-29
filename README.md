@@ -44,9 +44,10 @@ Parameter	|	value
 key	| key production
 action	| input_id
 
-Field	|	value
+Field	|	required
 ---------	|	-----------
-fullname	| yourname
-username	| yourusername
-email | youremail@domain.com
-password  | yourpassword
+fullname	| yes
+username	| yes
+email | yes
+password  | yes
+sponsor | no
