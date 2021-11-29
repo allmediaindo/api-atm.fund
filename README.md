@@ -47,6 +47,7 @@ action	| input_id
 Field	|	required
 ---------	|	-----------
 fullname	| yes
+phone  | yes
 username	| yes
 email | yes
 password  | yes
